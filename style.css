@@ -29,22 +29,4 @@ a:hover
 	box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
 }
 
-b
-{
-	position: relative;
-	display: inline-block;
-	padding: 15px 30px;
-	color: #2196f3;
-	text-transform: uppercase;
-	letter-spacing: 4px;
-	text-decoration: none;
-	font-size: 26px;
-	overflow: hidden;
-	transition: 0.2s;
-}
-b:hover
-{
-	color: #334235;
-	background: #2196f3;
-	box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
-}
+
