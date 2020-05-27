@@ -3,8 +3,8 @@ body
 	margin: 10;
 	padding: 10;
 	display: flex;
-	justify-content: center;
-	align-items: center;
+	justify-content: left;
+	align-items: left;
 	min-height: 100vh;
 	background: #031321;
 	font-family: consolas;
